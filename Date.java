@@ -1,6 +1,6 @@
 public class Date {
     // Base constructor for dates
-    private int day;
+    private int day ;
     private int month;
     private int year;
 
