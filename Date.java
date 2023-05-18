@@ -1,5 +1,5 @@
 public class Date {
-    // Base constructor for dates
+    // Private instance variables for Date
     private int day ;
     private int month;
     private int year;
