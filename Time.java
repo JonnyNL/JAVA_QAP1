@@ -1,5 +1,6 @@
 public class Time {
-    // Base constructor for time class
+    
+    // private instance variables for Time
     private int hour;
     private int minute;
     private int second;
